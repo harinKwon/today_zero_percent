@@ -31,5 +31,5 @@
    ```
 
 ## 👩‍💻 개발자 정보
-- **이름**: Gwon Ha-rin
+- **이름**: Kwon Ha-rin
 - **소속**: Kongju National University (Department of Software)
